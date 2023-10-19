@@ -1218,5 +1218,328 @@
     "size": 4542530,
     "apkName": "wavelet.apk",
     "added": 1697718631.244662
+  },
+  "gboard.apk": {
+    "hash": "411c1530ea8c37f47788ac487abff8dd174274c2554343ca4024e95c3a7c9e89",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.DOWNLOAD_WITHOUT_NOTIFICATION",
+        null
+      ],
+      [
+        "android.permission.GET_ACCOUNTS",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.READ_CONTACTS",
+        null
+      ],
+      [
+        "android.permission.READ_PROFILE",
+        null
+      ],
+      [
+        "android.permission.READ_USER_DICTIONARY",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.USE_CREDENTIALS",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.WRITE_USER_DICTIONARY",
+        null
+      ],
+      [
+        "android.permission.GET_PACKAGE_SIZE",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "com.google.android.providers.gsf.permission.READ_GSERVICES",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "com.bitstrips.imoji.provider.READ",
+        null
+      ],
+      [
+        "com.google.android.apps.inputmethod.latin.permission.UPDATE_STICKER_INDEX",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.RECORD_AUDIO",
+        null
+      ],
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.INTERACT_ACROSS_PROFILES",
+        null
+      ]
+    ],
+    "features": [
+      "android.hardware.faketouch"
+    ],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": [],
+    "packageName": "com.google.android.inputmethod.latin",
+    "versionCode": 40178034,
+    "name": "Gboard",
+    "versionName": "9.9.14.333092878-release-arm64-v8a",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 30,
+    "nativecode": [
+      "arm64-v8a"
+    ],
+    "sig": "d91564be0d13dcff260fe019eeea8cd8",
+    "signer": "f0fd6c5b410f25cb25c3b53346c8972fae30f8ee7411df910480ad6b2d60db83",
+    "size": 71422643,
+    "apkName": "gboard.apk",
+    "added": 1697738471.958801
+  },
+  "google_pdf_viewer.apk": {
+    "hash": "44d281ec786d8379dce3429a6d8f3959c0bb7dceff6d7fb7f79f0581195d5a3d",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.GET_PACKAGE_SIZE",
+        null
+      ],
+      [
+        "com.google.android.providers.gsf.permission.READ_GSERVICES",
+        null
+      ],
+      [
+        "android.permission.GET_ACCOUNTS",
+        null
+      ],
+      [
+        "android.permission.USE_CREDENTIALS",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": [],
+    "packageName": "com.google.android.apps.pdfviewer",
+    "versionCode": 193810340,
+    "name": "Google PDF Viewer",
+    "versionName": "2.19.381.03.40",
+    "minSdkVersion": 16,
+    "targetSdkVersion": 29,
+    "nativecode": [
+      "arm64-v8a"
+    ],
+    "sig": "62e8f1171738497cd70ed8908dea0a98",
+    "signer": "dcddb8c5addacabedf5edd2ef9e3ff2a0560432c8506f1164141db1d02ddbb9d",
+    "size": 7244621,
+    "apkName": "google_pdf_viewer.apk",
+    "added": 1697738474.076898
+  },
+  "hp_print_plugin.apk": {
+    "hash": "df0744407aaec75adce5d0e8d6f0e053285b1f14821ac0b4be26a8e74ea5f123",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "hp.enterprise.print.extension.permission",
+        null
+      ],
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.WRITE_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.ACCESS_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.CHANGE_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.CHANGE_WIFI_STATE",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.NFC",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_hp_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_hp_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_hp_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_hp_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_hp_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_hp_launcher.png"
+    },
+    "icons": {
+      "640": "com.hp.android.printservice.1136.png",
+      "480": "com.hp.android.printservice.1136.png",
+      "320": "com.hp.android.printservice.1136.png",
+      "240": "com.hp.android.printservice.1136.png",
+      "160": "com.hp.android.printservice.1136.png",
+      "0": "com.hp.android.printservice.1136.png"
+    },
+    "antiFeatures": [],
+    "packageName": "com.hp.android.printservice",
+    "versionCode": 1136,
+    "name": "HP Print Service Plugin",
+    "versionName": "4.10.2-3.2.1-16-19.2.110-1136",
+    "minSdkVersion": 19,
+    "targetSdkVersion": 27,
+    "nativecode": [
+      "armeabi-v7a",
+      "x86"
+    ],
+    "sig": "514010124f43f262a720057e6fbdde00",
+    "signer": "794015a7d3a5bce86f7fcd5eef80bcdca4069c67b48b7798ce00d4658fd0154d",
+    "size": 23564128,
+    "apkName": "hp_print_plugin.apk",
+    "icon": "com.hp.android.printservice.1136.png",
+    "added": 1697738477.321336
+  },
+  "savetofiles.apk": {
+    "hash": "114259807b52fd17be35ec70f6f9d016240b22caef226bf3d22e72e168eaa808",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.READ_EXTERNAL_STORAGE",
+        null
+      ],
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.ACCESS_NETWORK_STATE",
+        null
+      ],
+      [
+        "android.permission.WAKE_LOCK",
+        null
+      ],
+      [
+        "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {
+      "240": "res/mipmap-hdpi-v4/ic_launcher.png",
+      "160": "res/mipmap-mdpi-v4/ic_launcher.png",
+      "320": "res/mipmap-xhdpi-v4/ic_launcher.png",
+      "480": "res/mipmap-xxhdpi-v4/ic_launcher.png",
+      "640": "res/mipmap-xxxhdpi-v4/ic_launcher.png",
+      "-1": "res/mipmap-mdpi-v4/ic_launcher.png"
+    },
+    "icons": {
+      "640": "com.befairapps.savetofiles.5.png",
+      "480": "com.befairapps.savetofiles.5.png",
+      "320": "com.befairapps.savetofiles.5.png",
+      "240": "com.befairapps.savetofiles.5.png",
+      "160": "com.befairapps.savetofiles.5.png",
+      "0": "com.befairapps.savetofiles.5.png"
+    },
+    "antiFeatures": [],
+    "packageName": "com.befairapps.savetofiles",
+    "versionCode": 5,
+    "name": "Save to files",
+    "versionName": "1.0.2",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 31,
+    "sig": "fcc8f510f62a905def3c356d0b3ab1b8",
+    "signer": "07ae0b79c7e5bbbf5c2864307034244a0776addbd759758918aa652296f46639",
+    "size": 2400648,
+    "apkName": "savetofiles.apk",
+    "icon": "com.befairapps.savetofiles.5.png",
+    "added": 1697738480.032626
   }
 }

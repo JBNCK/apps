@@ -1,0 +1,13 @@
+AuthorName: 'Google LLC'
+Categories:
+- Office
+- Multimedia
+- Internet
+- Reading
+CurrentVersionCode: 2147483647
+IssueTracker: ''
+Name: Google PDF Viewer
+SourceCode: 'https://www.janbiernacik.com/apps/not_open'
+Summary: 'PDF Viewing for Android'
+Description: PDF Viewing is now available directly in Google Drive. For environments where this cannot be deployed, Google PDF Viewer offers the same capabilities in a standalone app. View, print, search and copy text from pdf documents while you're on the go.
+WebSite: 'https://www.google.com'

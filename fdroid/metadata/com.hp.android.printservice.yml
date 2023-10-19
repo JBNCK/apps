@@ -1,0 +1,12 @@
+AuthorName: 'HP Inc.'
+Categories:
+- System
+- Internet
+- Multimedia
+CurrentVersionCode: 2147483647
+IssueTracker: ''
+Name: HP Print Service Plugin
+SourceCode: 'https://www.janbiernacik.com/apps/not_open'
+Summary: 'HP Print Service Plugin'
+Description: The plugin enables printing from your apps to HP printers.
+WebSite: 'https://www.hp.com'
