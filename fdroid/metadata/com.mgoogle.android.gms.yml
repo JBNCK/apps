@@ -1,0 +1,11 @@
+AuthorName: 'TeamVanced'
+Categories:
+- Internet
+- System
+CurrentVersionCode: 2147483647
+IssueTracker: ''
+Name: Vanced microG
+SourceCode: 'https://github.com/TeamVanced/VancedMicroG'
+Summary: 'MicroG tweaked to work for applications such as Vanced.'
+Description: microG GmsCore is a FLOSS (Free/Libre Open Source Software) framework to allow applications designed for Google Play Services to run on systems, where Play Services is not available.
+WebSite: 'https://revanced.app'

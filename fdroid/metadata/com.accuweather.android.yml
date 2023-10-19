@@ -1,0 +1,10 @@
+AuthorName: 'AccuWeather'
+Categories:
+- Internet
+CurrentVersionCode: 2147483647
+IssueTracker: ''
+Name: AccuWeather
+SourceCode: 'https://www.janbiernacik.com/apps/not_open'
+Summary: 'Weather Radar'
+Description: Your local weather forecast, storm tracker, radar maps & live weather news
+WebSite: 'https://www.accuweather.com'

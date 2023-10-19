@@ -1,0 +1,11 @@
+AuthorName: 'LineageOS'
+Categories:
+- Time
+- System
+CurrentVersionCode: 2147483647
+IssueTracker: ''
+Name: Clock
+SourceCode: 'https://github.com/LineageOS/android_packages_apps_DeskClock'
+Summary: 'LineageOS Clock app'
+Description: Official LineageOS Clock app
+WebSite: 'https://www.lineageos.org'

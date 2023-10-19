@@ -1,0 +1,11 @@
+AuthorName: 'pittvandewitt'
+Categories:
+- Multimedia
+- System
+CurrentVersionCode: 2147483647
+IssueTracker: ''
+Name: Wavelet
+SourceCode: 'https://github.com/Pittvandewitt/Wavelet'
+Summary: 'headphone specific EQ'
+Description: Headphone specific equalization with lots of customizability. With over 3400 precalculated optimizations for headphone models and many options for customizability, Wavelet is a great addition to any mobile audio setup.
+WebSite: 'https://pittvandewitt.github.io/Wavelet/'

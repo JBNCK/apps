@@ -1,0 +1,12 @@
+AuthorName: 'LineageOS'
+Categories:
+- Science & Education
+- Time
+- System
+CurrentVersionCode: 2147483647
+IssueTracker: ''
+Name: Calendar
+SourceCode: 'https://github.com/LineageOS/android_packages_apps_Etar'
+Summary: 'Open Source Calendar'
+Description: Calendar (forked from Etar) is an open source material designed calendar made for LineageOS!
+WebSite: 'https://www.lineageos.org'

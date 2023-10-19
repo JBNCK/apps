@@ -1,0 +1,11 @@
+AuthorName: 'LineageOS'
+Categories:
+- Science & Education
+- System
+CurrentVersionCode: 2147483647
+IssueTracker: ''
+Name: Calculator
+SourceCode: 'https://github.com/LineageOS/android_packages_apps_ExactCalculator'
+Summary: 'LineageOS Calculator'
+Description: Official LineageOS Calculator
+WebSite: 'https://www.lineageos.org'
