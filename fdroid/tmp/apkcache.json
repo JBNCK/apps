@@ -284,7 +284,7 @@
     "added": 1697718599.326351
   },
   "calendar.apk": {
-    "hash": "bf6356da4e772b5f5d1a06a964c4d43b34348105729fc1d7195a5fc2fe0bd646",
+    "hash": "85ccbc5cdd6642e60d2cd10a364271904ca48ad4ec6ecced08518ef8807da520",
     "hashType": "sha256",
     "uses-permission": [
       [
@@ -324,22 +324,6 @@
         null
       ],
       [
-        "android.permission.SCHEDULE_EXACT_ALARM",
-        null
-      ],
-      [
-        "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
-        null
-      ],
-      [
-        "android.permission.POST_NOTIFICATIONS",
-        null
-      ],
-      [
-        "ws.xsoh.etar.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
-        null
-      ],
-      [
         "android.permission.READ_EXTERNAL_STORAGE",
         null
       ]
@@ -350,16 +334,16 @@
     "icons": {},
     "antiFeatures": [],
     "packageName": "org.lineageos.etar",
-    "versionCode": 33,
+    "versionCode": 30,
     "name": "Calendar",
-    "versionName": "13",
-    "minSdkVersion": 33,
-    "targetSdkVersion": 33,
+    "versionName": "11",
+    "minSdkVersion": 30,
+    "targetSdkVersion": 30,
     "sig": "6a8414fff47e41744978b565840ed4bd",
     "signer": "518325ef7f96c0d1194c2e856b040d636166ffb846717d72fa87f4fae5be7bbb",
-    "size": 6176713,
+    "size": 5434858,
     "apkName": "calendar.apk",
-    "added": 1697718600.638704
+    "added": 1697720499.75725
   },
   "clock.apk": {
     "hash": "47013407f0b6d20045662261c90b5060f14a4dcd5d863e8eab9ff54fb59aa1e3",
